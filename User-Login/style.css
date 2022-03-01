@@ -1,0 +1,21 @@
+html {
+    background: cyan;
+}
+
+button {
+    color: black;
+    background-color: cyan;
+    width: 500px;
+    height: 300px;
+    font-size: 150px;
+}
+
+body {
+    background: white;
+    text-align: left;
+    padding: 25px 100px;
+    width: 420px;
+    margin: 25px auto;
+    border-radius: 25px;
+    margin-top:  120px;
+}
